@@ -11,16 +11,16 @@
 //     console.log("numero1 es mayor");
 // }
 // //segundo ejercicio//
-// var nombre = "manu";
-// if (nombre == "manu") {
-//     console.log("bienvenido manu")
+// var nombre = "alex";
+// if (nombre == "alex") {
+//     console.log("bienvenido alex")
 // }
 // else{
 //     console.log("no eres bienvenido")
 // }
 //tercer ejercicio//
 // var nombre2 = prompt("cual es tu nombre")
-// if (nombre2 == "manu") {
+// if (nombre2 == "alex") {
 //     console.log("bienvenido alex")
 // }
 // else{
