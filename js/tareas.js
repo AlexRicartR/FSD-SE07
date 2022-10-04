@@ -21,7 +21,7 @@
 //tercer ejercicio//
 // var nombre2 = prompt("cual es tu nombre")
 // if (nombre2 == "manu") {
-//     console.log("bienvenido manu")
+//     console.log("bienvenido alex")
 // }
 // else{
 //     console.log("no eres bienvenido")
